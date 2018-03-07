@@ -1,5 +1,7 @@
 RAI.TV API
-====
+==========
+
+C'era una volta la app RaiTV, ma adesso è stata sostituita da RaiPlay ed anche questa bella pagina è destinata ad essere rimpiazzata. Anzi, è già successo! [raiapi](https://github.com/maxcanna/raiapi) e [raiplay_fetcher](https://github.com/giuscri/raiplay_fetcher).
 
 ## Ricevere informazioni sui canali
 
